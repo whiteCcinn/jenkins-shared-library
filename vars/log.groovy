@@ -10,6 +10,6 @@ def warning(message) {
     echo "WARNING: ${message}"
 }
 
-def a(script) {
+def a(def script) {
   echo script
 }
