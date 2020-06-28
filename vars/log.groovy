@@ -1,5 +1,5 @@
  def call(name){
-   echo "你好,{$name}"
+   echo "你好,${name}"
  }
 
 def info(message) {
