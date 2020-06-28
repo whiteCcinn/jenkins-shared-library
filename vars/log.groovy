@@ -11,5 +11,5 @@ def warning(message) {
 }
 
 def a(def script) {
-  echo script
+  script
 }
